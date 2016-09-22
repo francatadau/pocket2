@@ -12,4 +12,5 @@
         echo "Ortola <br>";
         echo "Piles <br>";
    ?>
+   </body>
 </html>
