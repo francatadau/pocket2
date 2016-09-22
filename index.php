@@ -5,11 +5,11 @@
 <html>
   <head>
       <title>ACTIVIDAD 03</title>
-      <?php
+  </head>
+  <body>
+  <?php
         echo "Francisco <br>"; 
         echo "Ortola <br>";
         echo "Piles <br>";
-      ?>
-  </head>
-  <body>
+   ?>
 </html>
